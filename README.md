@@ -1,0 +1,1 @@
+A responsive Italian-learning website built with React JS, Bootstrap, and modern hooks (useState, useReducer, useEffect). It provides lessons, tests, stages, and analytics to help users improve progressively. Clean UI, fast performance, and beginner-friendly design.
